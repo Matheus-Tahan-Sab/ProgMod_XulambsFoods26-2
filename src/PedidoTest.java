@@ -83,7 +83,7 @@ public class PedidoTest {
         assertTrue(
 
             cupom.contains("29,00") &&
-            cupom.contains("1 pizza") &&
+            cupom.contains("1 pizzas") &&
             cupom.contains("aberto")
 
         );
